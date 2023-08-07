@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Regenerative Shift</title>
-    <link>http://example.org/tags/</link>
+    <link>https://rshift.netlify.app/tags/</link>
     <description>Recent content in Tags on Regenerative Shift</description>
     <image>
       <title>Regenerative Shift</title>
-      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://rshift.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://rshift.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Aug 2023 21:12:55 -0400</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Aug 2023 21:12:55 -0400</lastBuildDate><atom:link href="https://rshift.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>179d</title>
-      <link>http://example.org/tags/179d/</link>
+      <link>https://rshift.netlify.app/tags/179d/</link>
       <pubDate>Thu, 03 Aug 2023 21:12:55 -0400</pubDate>
       
-      <guid>http://example.org/tags/179d/</guid>
+      <guid>https://rshift.netlify.app/tags/179d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Commercial Solar</title>
-      <link>http://example.org/tags/commercial-solar/</link>
+      <link>https://rshift.netlify.app/tags/commercial-solar/</link>
       <pubDate>Thu, 03 Aug 2023 21:12:55 -0400</pubDate>
       
-      <guid>http://example.org/tags/commercial-solar/</guid>
+      <guid>https://rshift.netlify.app/tags/commercial-solar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electric Vehicles</title>
-      <link>http://example.org/tags/electric-vehicles/</link>
+      <link>https://rshift.netlify.app/tags/electric-vehicles/</link>
       <pubDate>Thu, 03 Aug 2023 21:12:55 -0400</pubDate>
       
-      <guid>http://example.org/tags/electric-vehicles/</guid>
+      <guid>https://rshift.netlify.app/tags/electric-vehicles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Event</title>
-      <link>http://example.org/tags/event/</link>
+      <link>https://rshift.netlify.app/tags/event/</link>
       <pubDate>Thu, 03 Aug 2023 21:12:55 -0400</pubDate>
       
-      <guid>http://example.org/tags/event/</guid>
+      <guid>https://rshift.netlify.app/tags/event/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IRA</title>
-      <link>http://example.org/tags/ira/</link>
+      <link>https://rshift.netlify.app/tags/ira/</link>
       <pubDate>Thu, 03 Aug 2023 21:12:55 -0400</pubDate>
       
-      <guid>http://example.org/tags/ira/</guid>
+      <guid>https://rshift.netlify.app/tags/ira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ITC</title>
-      <link>http://example.org/tags/itc/</link>
+      <link>https://rshift.netlify.app/tags/itc/</link>
       <pubDate>Thu, 03 Aug 2023 21:12:55 -0400</pubDate>
       
-      <guid>http://example.org/tags/itc/</guid>
+      <guid>https://rshift.netlify.app/tags/itc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Webinar</title>
-      <link>http://example.org/tags/webinar/</link>
+      <link>https://rshift.netlify.app/tags/webinar/</link>
       <pubDate>Thu, 03 Aug 2023 21:12:55 -0400</pubDate>
       
-      <guid>http://example.org/tags/webinar/</guid>
+      <guid>https://rshift.netlify.app/tags/webinar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Podcast</title>
-      <link>http://example.org/tags/podcast/</link>
+      <link>https://rshift.netlify.app/tags/podcast/</link>
       <pubDate>Mon, 17 Jul 2023 20:53:03 -0400</pubDate>
       
-      <guid>http://example.org/tags/podcast/</guid>
+      <guid>https://rshift.netlify.app/tags/podcast/</guid>
       <description></description>
     </item>
     
