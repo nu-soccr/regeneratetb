@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap');
+
+
+body {
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+  }
+
+
+.logo {
+  padding-top: 2%;
+}
+
+.tag-entry .entry-cover {
+  display: flex;
+}
+
+img[src$='#wide'] {
+  display: block;
+  width: 100vw;
+  max-width: none;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  border-radius: 0;
+}
+
+.main {
+  position: relative;
+  min-height: calc(100vh - var(--header-height) - var(--footer-height));
+  /* I changed max-width from * 2 to * 12 to widen the main content on the pages. */
+  max-width: calc(var(--main-width) + var(--gap) * 12); 
+  margin: auto;
+  padding: var(--gap);
+}
+
+.nav {
+  max-width: calc(var(--nav-width) + var(--gap) * 12);
+}
