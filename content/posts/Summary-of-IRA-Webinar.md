@@ -4,7 +4,7 @@ date: 2023-08-09T18:55:00-04:00
 draft: false
 ---
 
-This is the recording of the [webinar](/posts/events/webinar-discussing-ira-with-randy-lucas/) on August 8 hosted by Caleb Quaid and Randy Lucas.
+This is the recording of the [webinar](/posts/events/webinar-discussing-ira-with-randy-lucas/) on August 8 hosted by Caleb Quaid and [Randy Lucas](https://www.lucastaxandenergy.com/about/). Click Randy's name to learn more about him.
 
 
 Signed in law in August 2022, the IRA creates and/or funds more than 130 programs totaling over $370 billion in support of renewable energy, energy efficiency, and decarbonization.

@@ -12,7 +12,7 @@ summary: "Join us August 8th, 2023 for a free educational webinar as we delve in
 
 ![Webinar with Randy Lucas](/img/ira-webinar-randy.jpg)
 
-Join us for a free educational webinar as we delve into the inflation reduction act, discussing its impact and opportunities. Randy Lucas and I are thrilled to share our insights from the first year of this groundbreaking legislation, which offers over $370 billion in funding across more than 130 programs. Discover how businesses, non-profits, and individuals can tap into these resources to advance environmental initiatives and foster sustainable growth.
+Join us for a free educational webinar as we delve into the inflation reduction act, discussing its impact and opportunities. [Randy Lucas](https://www.lucastaxandenergy.com/about/) and I are thrilled to share our insights from the first year of this groundbreaking legislation, which offers over $370 billion in funding across more than 130 programs. Discover how businesses, non-profits, and individuals can tap into these resources to advance environmental initiatives and foster sustainable growth.
 
 **Date: Tuesday, August 8th, 2023**
 
