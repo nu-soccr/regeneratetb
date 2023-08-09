@@ -7,7 +7,7 @@ summary: "A place to start if regeneration is totally new to you."
 ---
 
 
-![loessplateau](/img/loessplateau.jpg/)
+![loessplateau](/img/loessplateau.jpg)
 _The Loess Plateau restoration in China is the largest scale regenerative land restoration project to date, restoring over 35,000 square kilometers (an area the size of Belgium) between 1995 and 2007. This land was barren for thousands of years prior to restoration, showing an incredible case example of the power of regenerative practices to restore degraded ecosystems._
 
 
