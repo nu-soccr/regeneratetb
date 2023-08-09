@@ -13,7 +13,7 @@ summary: "Caleb Quaid in conversation with Caroline Chomanics on The Green Horiz
 ![Caleb Green Horizon](/img/green-horizon-ira.png)
 
 
-{{<audio src="/media/audio/green-horizon1-ira.m4a" caption="Listen to on the player above" >}}
+{{<audio src="/media/audio/green-horizon1-ira.mp4" caption="Listen to on the player above" >}}
 
 [Or listen to on the IdeasForUs website](https://ideasforus.org/regenerative-business-shift-our-podcast-with-caleb-quaid/#inflation)
 
