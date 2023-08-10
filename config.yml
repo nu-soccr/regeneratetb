@@ -84,7 +84,7 @@ params:
       url: "https://www.facebook.com/profile.php?id=100071251051563"
     - name: linkedin
       url: "https://www.linkedin.com/company/regenerativeshift"
-    - name: Rss
+    - name: RSS
       url: "index.xml"
 
 
