@@ -10,7 +10,7 @@ description: "Caleb Quaid in conversation with Caroline Chomanics on The Green H
 summary: "Caleb Quaid in conversation with Caroline Chomanics on The Green Horizon"
 ---
 
-![Caleb Green Horizon](/img/green-horizon-ira.png)
+![Caleb Green Horizon](/img/green-horizon-ira.webp)
 
 
 {{<audio src="/media/audio/green-horizon1-ira.mp3" caption="Listen to on the player above" >}}
