@@ -62,7 +62,7 @@ Electricians, plumbers, HVAC contractors, carpenters, and all trades should begi
 
 Regenerative Shift provides consulting services on 179D and other programs in the Inflation Reduction Act of 2022.  We can coordinate turnkey energy modeling, assist in documenting prevailing wage and apprenticeship requirements, and work with all stakeholders to maximize the value of the deduction for the project.
 
-Your situation is unique.  Contact Caleb Quaid at <info@regenerativeshift.com> or set up a meeting through [Calendly](https://calendly.com/caleb-q/free-consultation) to discuss.
+Your situation is unique. [Contact us](/contact/) today to set up a free consultation!
 
 **Sources:**
 

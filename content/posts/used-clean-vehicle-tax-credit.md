@@ -55,4 +55,4 @@ You can use your modified AGI from the year you take delivery of the vehicle or 
 ---
 **Got an idea we can help you get started with?**
 
-Have any more questions about how you can reap the benefits of the Inflation Reduction Act? Feel free to browse through the site or contact us through [email](mailto:info@regenerativeshift.com) or set up a free consultation through [Calendly](https://calendly.com/caleb-q/free-consultation). We'd love to get to know you and help you make your regenerative shift! 
+Have any more questions about how you can reap the benefits of the Inflation Reduction Act? Feel free to browse through the site or [contact us](/contact/) today to set up a free consultation!

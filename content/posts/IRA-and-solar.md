@@ -49,4 +49,4 @@ Caleb Quaid is the founder of Regenerative Shift, a Tampa-based environmental co
 
 **Now what?**
 
-The IRA can be a lot to navigate, and new guidance is issued every week.  If you’d like to discuss how your business can benefit, Regenerative Shift is here to help!  Reach out today at <info@regenerativeshift.com> to set up a free consultation!
+The IRA can be a lot to navigate, and new guidance is issued every week.  If you’d like to discuss how your business can benefit, Regenerative Shift is here to help! [Contact us](/contact/) today to set up a free consultation!

@@ -1,5 +1,5 @@
 ---
-title: "The Green Horizon Podcast - IRA: Making a Regenerative Shift"
+title: "The Green Horizon Podcast - IRA"
 date: 2023-07-17T20:53:03-04:00
 draft: false
 showReadingTime: false

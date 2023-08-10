@@ -6,8 +6,8 @@ showReadingTime: false
 showWordCount: false
 author: "In-person Event"
 tags: ["Event"]
-description: "Join us in person July 22nd at 10:30am at the University of South Florida for a discussion on the 2023 Farm Bill, regenerative agriculture, BIPOC farmer rights, and the Inflation Reduction Act."
-summary: 
+description: 
+summary: "Join us in person July 22nd at 10:30am at the University of South Florida for a discussion on the 2023 Farm Bill, regenerative agriculture, BIPOC farmer rights, and the Inflation Reduction Act."
 ---
 
 ![Farm bill USF](/img/farmbill-usf.jpg)
