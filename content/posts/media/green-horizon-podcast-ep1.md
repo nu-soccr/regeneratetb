@@ -1,5 +1,5 @@
 ---
-title: "Inflation Reduction Act: Making A Regenerative Shift"
+title: "The Green Horizon Podcast - IRA: Making a Regenerative Shift"
 date: 2023-07-17T20:53:03-04:00
 draft: false
 showReadingTime: false
