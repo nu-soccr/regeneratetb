@@ -167,4 +167,4 @@ Caleb Quaid is the founder of Regenerative Shift, a Tampa-based environmental co
 
 **Now what?**
 
-The Inflation Reduction Act can be a lot to navigate, and new guidance is issued every week. If you’d like to discuss how your business can benefit, Regenerative Shift is here to help! Set up a free consultation [here](calendly.com/caleb-q/free-consultation)!
+The Inflation Reduction Act can be a lot to navigate, and new guidance is issued every week. If you’d like to discuss how your business can benefit, Regenerative Shift is here to help! Set up a free consultation [here](https://calendly.com/caleb-q/free-consultation)!

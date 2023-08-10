@@ -46,4 +46,4 @@ When soil is healthy, it has more microorganisms in one handful than we have peo
 
 Want to discuss your regenerative shift? [Let's talk!](/services/)
 
-Want to dive deeper? [Resources/Education](/external-resources/)
+Want to dive deeper? [Resources/Education](/learn/external-resources/)
