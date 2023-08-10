@@ -2,8 +2,6 @@
 title: "Contact"
 hideMeta: true
 showtoc: false
-showBreadcrumbs: false
-disableShare: true
 ---
 
 ---

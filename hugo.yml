@@ -15,9 +15,9 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Environment, Climate, Sustainability, Regeneration, Earth, Inflation Reduction Act, Renewable Energy, Organic, Soil]
+  title: Regenerative Shift
+  description: "Regenerative Shift description"
+  keywords: [Blog, Environment, Climate, Sustainability, Regeneration, Earth, Inflation Reduction Act, Renewable Energy, Organic, Soil, 179d, 48c]
   author: Caleb Quaid
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -84,6 +84,8 @@ params:
       url: "https://www.facebook.com/profile.php?id=100071251051563"
     - name: linkedin
       url: "https://www.linkedin.com/company/regenerativeshift"
+    - name: Rss
+      url: "index.xml"
 
 
   cover:

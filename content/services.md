@@ -1,10 +1,8 @@
 ---
 title: "Services"
 layout: "single"
-url: "/services/"
 hideMeta: true
 showtoc: false
-showBreadcrumbs: false
 ---
 
 ![sprout](/img/sprout.webp)

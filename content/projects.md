@@ -1,7 +1,6 @@
 ---
 title: "Projects"
 hideMeta: true
-showBreadcrumbs: false
 ---
 
 ## Raymond James Stadium Living Fence

@@ -1,9 +1,7 @@
 ---
 title: "About"
-url: "/about/"
 hideMeta: true
 showtoc: false
-showBreadcrumbs: false
 ---
 
 Regenerative Shift assists in the transition steps (large or little) that businesses and individuals want to make to create resiliency and a connection with nature. Regenerative Shift simplifies and connects new technologies, ancient wisdom, business thinking, and radical ideas into actionable steps to begin the regenerative shift! We also aim to be a source for education and inspiration around regenerative practices, many of which aren't yet broadly known.
