@@ -1,5 +1,5 @@
 ---
-title: "Farm Bill Educational Event"
+title: "Farm Bill Conference at USF"
 date: 2023-07-15T12:03:41-04:00
 draft: false
 showReadingTime: false
