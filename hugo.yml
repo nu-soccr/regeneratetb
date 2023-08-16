@@ -16,11 +16,11 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Regenerative Shift
-  description: "Regenerative Shift description"
-  keywords: [Blog, Environment, Climate, Sustainability, Regeneration, Earth, Inflation Reduction Act, Renewable Energy, Organic, Soil, 179d, 48c]
+  description: "Regenerative Shift assists in the transition steps (large or little) that businesses and individuals want to make to create resiliency and a connection with nature. We aim to simplify and connect new technologies, ancient wisdom, business thinking, and radical ideas into actionable steps to begin the regenerative shift! We also aim to be a source for education and inspiration around regenerative practices, many of which aren't yet broadly known."
+  keywords: [Blog, Environment, Climate, Sustainability, Regeneration, Earth, Inflation Reduction Act, Renewable Energy, Organic, Soil, Tampa, Florida]
   author: Caleb Quaid
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/img/logo.webp"]
   DateFormat: "January 2, 2006"
   defaultTheme: light # dark, light, auto
   disableThemeToggle: false
