@@ -31,7 +31,8 @@ Protect, restore and promote sustainable use of terrestrial ecosystems, sustaina
 
 ## Message from the Founder
 
-![caleb](/img/quaid.jpg)
+![caleb](/img/quaid.jpg) 
+**Caleb Quaid, MBA, LEED, AP BD+C**
 
 
 Hi, I’m Caleb. I formed Regenerative Shift in 2021 because I saw so much hope and potential in the little regenerative changes we can all make, and not enough discussion and action!
