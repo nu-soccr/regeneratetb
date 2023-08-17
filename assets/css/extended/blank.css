@@ -44,3 +44,7 @@ img[src$='#wide'] {
 .nav {
   max-width: calc(var(--nav-width) + var(--gap) * 12);
 }
+
+#menu .active {
+  font-weight: bold;
+}

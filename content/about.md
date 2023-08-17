@@ -29,7 +29,7 @@ Protect, restore and promote sustainable use of terrestrial ecosystems, sustaina
 
 ---
 
-## About Caleb
+## Message from the Founder
 
 ![caleb](/img/quaid.jpg)
 
