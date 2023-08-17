@@ -3,20 +3,21 @@
 
 <article class="first-entry home-info">
     <header class="entry-header">
-        <h1>{{ .Title | markdownify }} <vue-typer
-            :text='["business","home","community"]'
-            :repeat='Infinity'
-            :shuffle='false'
-            initial-action='typing'
-            :pre-type-delay='70'
-            :type-delay='70'
-            :pre-erase-delay='2000'
-            :erase-delay='30'
-            erase-style='backspace'
-            :erase-on-complete='false'
-            caret-animation='expand'
-          ></vue-typer></h1> 
+        <h1>{{ .Title | markdownify }} </h1> 
     </header>
+    <h1><i>Life</i> at the center of Business <vue-typer
+        :text='["business","home","community"]'
+        :repeat='Infinity'
+        :shuffle='false'
+        initial-action='typing'
+        :pre-type-delay='70'
+        :type-delay='70'
+        :pre-erase-delay='2000'
+        :erase-delay='30'
+        erase-style='backspace'
+        :erase-on-complete='false'
+        caret-animation='expand'
+      ></vue-typer></h1>
     <div class="entry-content">
         <h3>Find out how you or your business can be a part of the Regeneration.</h3>
     </div>
@@ -36,4 +37,7 @@
         {{ partial "social_icons.html" site.Params.socialIcons }}
     </footer>
 </article>
+
+<h2>Latest Information</h2>
+<br>
 {{- end -}}
