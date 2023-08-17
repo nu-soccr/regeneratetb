@@ -1,6 +1,5 @@
 ---
 title: "Services"
-layout: "single"
 hideMeta: true
 showtoc: false
 ---
@@ -43,9 +42,6 @@ The most successful green projects are created when all members of the project t
 Throughout concept development, design, construction, commissioning, and operations, Regenerative Shift can support project LEED certification goals and provide guidance on the path to obtain this industry-recognized sustainability certification, and how to fit this project into your overall sustainability program.
 
 
-5. ### Climate Adaptation Planning
-
-As part of a holistic strategic plan, Regenerative Shift can help you build resiliency in your community and business to be better prepared for environmental and social changes that are on the horizon. Building local resiliency can be an asset that protects against supply chain interruptions and other changes that come from an uncertain climate future.
 
 ---
 ## Contact
