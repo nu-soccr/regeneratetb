@@ -46,7 +46,7 @@ Throughout concept development, design, construction, commissioning, and operati
 ---
 ## Contact
 
-**Email:** <info@regenerativeshift.com> 
+**Email:** <hello@regenerativeshift.com> 
 
 **Phone:** (813) 575-4433
 
