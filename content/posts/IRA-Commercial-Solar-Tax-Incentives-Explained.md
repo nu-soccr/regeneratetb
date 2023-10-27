@@ -36,13 +36,13 @@ and more!
 
 **Speakers**:
 
-**Randy Lucas**, Principal Consultant, Lucas Tax + Energy Consultants
+**[Randy Lucas](https://www.lucastaxandenergy.com/about/)**, Principal Consultant, Lucas Tax + Energy Consultants
 
 **Caleb Quaid**, President, Regenerative Shift
 
-**Steve Rutherford**, President, Tampa Bay Solar
+**[Steve Rutherford](https://tampabaysolar.com/about-2/steve-rutherford/)**, President, Tampa Bay Solar
 
-**Rick Gilbert**, Executive Vice President, Solar Source
+**[Rick Gilbert](https://www.solarsource.com/blog/author/rick-gilbert)**, Executive Vice President, Solar Source
 
 ---
 
