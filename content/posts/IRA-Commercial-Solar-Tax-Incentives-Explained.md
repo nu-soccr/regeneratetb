@@ -61,21 +61,4 @@ and more!
 
 **[Rick Gilbert](https://www.solarsource.com/blog/author/rick-gilbert)**, Executive Vice President, Solar Source
 
----
-
-Watch the recorded webinar below:
-
-{{< youtube G0TMAt5O-vw >}}
->
->
->
-**Timestamps**
-
-00:35 - Introductions
-
-04:44 - Overview of Commercial Solar Tax Incentives
-
-14:56 - Panel Discussion
-
-49:48 - Q&A with the Audience
 
