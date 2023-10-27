@@ -10,6 +10,24 @@ description: "Watch the recording of our webinar covering the commercial solar t
 summary: "Watch the recording of our webinar covering the commercial solar tax incentives provided by the IRA."
 ---
 
+Watch the recorded webinar below:
+
+{{< youtube G0TMAt5O-vw >}}
+>
+>
+>
+**Timestamps**
+
+00:35 - Introductions
+
+04:44 - Overview of Commercial Solar Tax Incentives
+
+14:56 - Panel Discussion
+
+49:48 - Q&A with the Audience
+
+---
+
 The Inflation Reduction Act of 2022 was a ground-breaking environmental legislation that expanded the tax incentives for renewable energy projects, including commercial solar.
 
 Learn how businesses, non-profit, place of worship, university and communities can benefit.
