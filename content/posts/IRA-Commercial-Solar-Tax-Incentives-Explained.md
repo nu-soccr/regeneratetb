@@ -10,7 +10,6 @@ description: "Watch the recording of our webinar covering the commercial solar t
 summary: "Watch the recording of our webinar covering the commercial solar tax incentives provided by the IRA."
 ---
 
-Watch the recorded webinar below:
 
 {{< youtube G0TMAt5O-vw >}}
 >
