@@ -109,18 +109,22 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
     - identifier: photos
       name: Photos
       url: /photos/
-      weight: 10
+      weight: 20
     - identifier: learn
       name: Learn
       url: /learn/
-      weight: 20
+      weight: 30
     - identifier: search
       name: Search
       url: /search/
-      weight: 30
+      weight: 40
     
     
     

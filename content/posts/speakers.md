@@ -5,4 +5,4 @@ hideMeta: true
 showtoc: false
 ---
 
-![panels](/img/panels.jpg)
+![panels](/img/Panels.jpg)
