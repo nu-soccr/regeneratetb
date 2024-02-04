@@ -44,6 +44,3 @@ Regenerative soil management can sequester massive amounts of carbon if scaled g
 
 When soil is healthy, it has more microorganisms in one handful than we have people on the planet. These small organisms are the foundation of the ecosystem and support all plant, insect, animal, and human life, along with making beautiful healthy soil. As we look for solutions to this great mass extinction, creating habitat through regenerative practices is one of the great opportunities before us!
 
-Want to discuss your regenerative shift? [Let's talk!](/contact/)
-
-Want to dive deeper? [Resources/Education](/learn/external-resources/)

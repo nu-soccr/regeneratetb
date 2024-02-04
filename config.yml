@@ -1,6 +1,6 @@
-baseURL: https://regenerativeshift.com
+baseURL: https://RegenerateTampaBay.com
 languageCode: en-us
-title: Regenerative Shift
+title: ~regenerate-tampa-bay
 theme: PaperMod
 paginate: 5
 
@@ -15,12 +15,12 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Regenerative Shift
-  description: "Regenerative Shift assists in the transition steps (large or little) that businesses and individuals want to make to create resiliency and a connection with nature. We aim to simplify and connect new technologies, ancient wisdom, business thinking, and radical ideas into actionable steps to begin the regenerative shift! We also aim to be a source for education and inspiration around regenerative practices, many of which aren't yet broadly known."
-  keywords: [tax credits, tax incentives, tampa, florida, fl, environment, climate action, sustainability, regeneration, earth, inflation reduction act, renewable energy, organic, soil]
-  author: Caleb Quaid
+  title: Regenerate Tampa Bay
+  description: "Regenerate Tampa Bay "
+  keywords: [Blog, Environment, Climate, Sustainability, Regeneration, Earth, Inflation Reduction Act, Renewable Energy, Organic, Soil, Tampa, Florida, Event, Family Friendly]
+  author: 
   # author: ["Me", "You"] # multiple authors
-  images: ["/img/logo.webp"]
+  images: ["/img/logo.svg"]
   DateFormat: "January 2, 2006"
   defaultTheme: light # dark, light, auto
   disableThemeToggle: false
@@ -52,10 +52,10 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
 # top of page logo area
-  label:
-    text: " "
-    icon: img/logo.webp
-    iconHeight: 130
+  # label:
+  #   text: " "
+  #   icon: img/logo.svg
+  #   iconHeight: 70
 
   # profile-mode
   profileMode:
@@ -74,16 +74,12 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Life at the center of Business"
-    Content: Your need is unique. Let's Talk!
+    Title: 
+    Content: 
 
 
 
   socialIcons:
-    - name: facebook
-      url: "https://www.facebook.com/profile.php?id=100071251051563"
-    - name: linkedin
-      url: "https://www.linkedin.com/company/regenerativeshift"
     - name: RSS
       url: "index.xml"
 
@@ -113,42 +109,22 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: about
-      name: About
-      url: /about/
+    - identifier: photos
+      name: Photos
+      url: /photos/
       weight: 10
-    - identifier: services
-      name: Services
-      url: /services/
-      weight: 20
     - identifier: learn
       name: Learn
       url: /learn/
-      weight: 40
-    - identifier: projects
-      name: Projects
-      url: /projects/
-      weight: 70
+      weight: 20
     - identifier: search
       name: Search
       url: /search/
-      weight: 90
-    - identifier: posts
-      name: Posts
-      url: /posts/
-      weight: 50
-    - identifier: contact
-      name: Contact
-      url: /contact/
       weight: 30
-    - identifier: media
-      name: Podcasts and Media
-      url: /posts/media/
-      weight: 60
-    - identifier: events
-      name: Events
-      url: /posts/events/
-      weight: 80
+    
+    
+    
+    
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
