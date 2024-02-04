@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>~regenerate-tampa-bay</title>
-    <link>https://RegenerateTampaBay.com/</link>
+    <link>https://regeneratetampabay.org/</link>
     <description>Recent content on ~regenerate-tampa-bay</description>
     <image>
       <title>~regenerate-tampa-bay</title>
-      <url>https://RegenerateTampaBay.com/img/logo.svg</url>
-      <link>https://RegenerateTampaBay.com/img/logo.svg</link>
+      <url>https://regeneratetampabay.org/img/logo.svg</url>
+      <link>https://regeneratetampabay.org/img/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://RegenerateTampaBay.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://regeneratetampabay.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intro to Regeneration</title>
-      <link>https://RegenerateTampaBay.com/learn/intro-to-regeneration/</link>
+      <link>https://regeneratetampabay.org/learn/intro-to-regeneration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://RegenerateTampaBay.com/learn/intro-to-regeneration/</guid>
+      <guid>https://regeneratetampabay.org/learn/intro-to-regeneration/</guid>
       <description>A place to start if regeneration is totally new to you.</description>
     </item>
     
     
     <item>
       <title>Speakers</title>
-      <link>https://RegenerateTampaBay.com/posts/speakers/</link>
+      <link>https://regeneratetampabay.org/posts/speakers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://RegenerateTampaBay.com/posts/speakers/</guid>
+      <guid>https://regeneratetampabay.org/posts/speakers/</guid>
       <description></description>
     </item>
     
