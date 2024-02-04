@@ -2,7 +2,6 @@
 title: "Intro to Regeneration"
 ShowReadingTime: true
 hideMeta: true
-weight: 1
 summary: "A place to start if regeneration is totally new to you."
 ---
 
