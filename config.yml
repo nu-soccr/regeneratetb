@@ -17,7 +17,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Regenerate Tampa Bay
   description: "Regenerate Tampa Bay "
-  keywords: [Blog, Environment, Climate, Sustainability, Regeneration, Earth, Inflation Reduction Act, Renewable Energy, Organic, Soil, Tampa, Florida, Event, Family Friendly]
+  keywords: [Environmental Stewardship, All Ages, Permaculture, Workshops, Climate, Sustainability, Regeneration, Regenerative, Earth, Inflation Reduction Act, Renewable Energy, Organic, Soil, Tampa, Florida, Event, Family Friendly, Organic, Gardening]
   author: 
   # author: ["Me", "You"] # multiple authors
   images: ["/img/logo.svg"]
