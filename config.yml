@@ -1,6 +1,6 @@
 baseURL: https://regeneratetampabay.org
 languageCode: en-us
-title: ~regenerate-tampa-bay
+title: Regenerate Tampa Bay
 theme: PaperMod
 paginate: 5
 
@@ -113,18 +113,14 @@ menu:
       name: Posts
       url: /posts/
       weight: 10
-    - identifier: photos
-      name: Photos
-      url: /photos/
-      weight: 20
     - identifier: learn
       name: Learn
       url: /learn/
-      weight: 30
+      weight: 20
     - identifier: search
       name: Search
       url: /search/
-      weight: 40
+      weight: 30
     
     
     
