@@ -3,6 +3,7 @@ title: "Speakers"
 hideMeta: true
 summary: "List of panels and speakers"
 showtoc: false
+draft: false
 ---
 
 ## Elder Wisdom Panel
@@ -19,7 +20,7 @@ showtoc: false
 - Harrison Soberanis, Dream Builders Mission
 - Albert Risemberg, Moon Landing Garden & Apiary
 - Joe Dalessio, Meacham Urban Farm
-- John Butts, EcoFarm
+- Jon Butts, EcoFarm
 
 ## Land and Water Use Panel
 
