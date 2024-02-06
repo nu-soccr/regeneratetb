@@ -113,9 +113,9 @@ menu:
       name: Posts
       url: /posts/
       weight: 10
-    - identifier: learn
-      name: Learn
-      url: /learn/
+    - identifier: resource-library
+      name: Resource Library
+      url: /resource-library/
       weight: 20
     - identifier: search
       name: Search
