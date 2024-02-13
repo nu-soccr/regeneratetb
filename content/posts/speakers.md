@@ -8,6 +8,8 @@ draft: false
 
 ![speakers-art](/img/speakers-art.png)
 
+![elders](/img/Elder-Wisdom.jpg)
+
 ## Elder Wisdom Panel
 
 Community elders share experience in a free-flowing dialogue style panel.
@@ -23,6 +25,7 @@ Community elders share experience in a free-flowing dialogue style panel.
 - **Cristy Abbott**, Permaculture Elder
 
   
+![food panel](/img/Food-Systems.jpg)
 
 ## Food Systems Panel
 
@@ -78,6 +81,6 @@ Local entrepreneurs discuss navigating business with a focus on life.
     
 6. **Rick Scolaro** - Regeneration and Star Trek: A Vision for the Future
     
-7. *Slot Available (Apply to Speak!)*
+7. **Caroline Chomanics** - IDEASForUs
     
-8. *Slot Available (Apply to Speak!)*
+8. *Slot Available*
