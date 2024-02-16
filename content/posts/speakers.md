@@ -24,8 +24,7 @@ Community elders share experience in a free-flowing dialogue style panel.
 
 - **Cristy Abbott**, Permaculture Elder
 
-  
-![food panel](/img/Food-Systems.jpg)
+
 
 ## Food Systems Panel
 
