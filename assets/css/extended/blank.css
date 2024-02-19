@@ -48,3 +48,10 @@ img[src$='#wide'] {
 #menu .active {
   font-weight: bold;
 }
+
+.banner {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: orange;
+}
