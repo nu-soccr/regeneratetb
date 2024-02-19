@@ -61,4 +61,19 @@ img[src$='#wide'] {
   margin: 0;
   font-weight: bold;
   text-align: center;
+  padding: .6%;
+}
+.banner a {
+  border-style: outset;
+  border-color: rgb(50, 50, 139);
+  padding: .3%;
+  color: rgb(50, 50, 139);
+  transition: ease-in-out;
+  transition-duration: .2s;
+}
+
+.banner a:hover {
+  color: aliceblue;
+  border-color: aliceblue;
+  border-style: inset;
 }
