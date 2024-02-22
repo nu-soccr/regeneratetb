@@ -59,7 +59,7 @@ Discussion of issues involving land, water and climate in the Tampa Bay area, wi
 Local entrepreneurs discuss navigating business with a focus on life.
 
 - **Laura Oldanie**, [Rich and Resilient Living](https://www.richandresilientliving.com/)
-- **Laura Ibrahim**, Regenerative Entrepreneur
+- **Caroline Chomanics**, IDEASForUs / [Chomanics Consulting](https://chomanicsconsulting.weebly.com/)
 - **Kendrick Henry**, [Grow Moringa](https://growmoringa.com/)
 - **Desiree’ Sims**, [Peas and Love Edible Landscapes](https://tampabayediblegardens.com/)
 - **Tara Hubbard**, [TakeMAR](https://www.takemar.org/)
