@@ -24,7 +24,9 @@ Community elders share experience in a free-flowing dialogue style panel.
 
 - **Cristy Abbott**, Permaculture Elder
 
+---
 
+![Food System](/img/Food-Systems.jpg)
 
 ## Food Systems Panel
 
@@ -43,6 +45,9 @@ permaculture representatives.
 
 - **Joe Dalessio**, [Meacham Urban Farm](https://meachamfarm.com/)
 
+---
+
+![Land and Water Use](/img/Land-and-Water-Use.jpg)
 
 ## Land and Water Use Panel
 
@@ -54,6 +59,9 @@ Discussion of issues involving land, water and climate in the Tampa Bay area, wi
 
 - **Diane Willis**, [Wetland Scientist and Rainwater Harvesting Expert](https://www.linkedin.com/in/diane-willis-3797b191/)
 
+---
+
+![Regenerative Biz](/img/Regenerative-Business.jpg)
 
 ## Regenerative Business
 
