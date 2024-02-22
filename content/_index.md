@@ -35,6 +35,11 @@ We're looking for **Vendors** (food/non-alcoholic beverages) and **Volunteers
 - Drumming and Dancing
 - Campfire S'Mores
 
+## Network
+
+Network with new people and teachers in our Connections & Tea space, where you can search and input on a physical map of resources in the region.
+
+
 **Pricing / Ticket Information**
 
 We believe in the transformative power of shared experiences and the principle of "value for value." This event is not just about attendance; it’s about shared experiences and connecting us to life.

@@ -41,7 +41,8 @@ permaculture representatives.
 
 - **Erica Hall**, [Florida Food Policy Council](https://flfpc.org/)
 
-  
+- **Joe Dalessio**, [Meacham Urban Farm](https://meachamfarm.com/)
+
 
 ## Land and Water Use Panel
 
@@ -59,10 +60,10 @@ Discussion of issues involving land, water and climate in the Tampa Bay area, wi
 Local entrepreneurs discuss navigating business with a focus on life.
 
 - **Laura Oldanie**, [Rich and Resilient Living](https://www.richandresilientliving.com/)
-- **Caroline Chomanics**, IDEASForUs / [Chomanics Consulting](https://chomanicsconsulting.weebly.com/)
+- **Caroline Chomanics**, [IDEASForUs](https://ideasforus.org) / [Chomanics Consulting](https://chomanicsconsulting.weebly.com/)
 - **Kendrick Henry**, [Grow Moringa](https://growmoringa.com/)
 - **Desiree’ Sims**, [Peas and Love Edible Landscapes](https://tampabayediblegardens.com/)
-- **Tara Hubbard**, [TakeMAR](https://www.takemar.org/)
+- **Tara Hubbard**, [TakeMAR](https://www.takemar.org/) / [Wonderfield Farm & Retreat](https://wonderfieldfarm.com/)
 
 ---
 
@@ -74,12 +75,12 @@ Local entrepreneurs discuss navigating business with a focus on life.
     
 3. **Dee Morales** - 813 Hood Garden
     
-4. **Dahveed** - Sociocracy
+4. **Dahveed Montané** - Sociocracy
     
 5. **Kayla Caselli**, City of Tampa Sustainability Coordinator - City of Tampa's Sustainability Progress
     
 6. **Rick Scolaro** - Regeneration and Star Trek: A Vision for the Future
     
-7. **Caroline Chomanics** - IDEASForUs
+7. **Eckerd College Students** - Eckerd Community Farm
     
 8. *Slot Available*
