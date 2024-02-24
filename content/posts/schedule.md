@@ -3,6 +3,7 @@ title: "Schedule"
 draft: false
 hideMeta: true
 tocOpen: true
+summary: "View the itinerary"
 ---
 
 ## Morning 
