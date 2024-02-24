@@ -89,6 +89,6 @@ Local entrepreneurs discuss navigating business with a focus on life.
     
 6. **Rick Scolaro** - Regeneration and Star Trek: A Vision for the Future
     
-7. **Eckerd College Students** - Eckerd Community Farm
+7. *Slot Available*
     
 8. *Slot Available*

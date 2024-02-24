@@ -8,8 +8,7 @@ layout: home
 
 **Time:** 9am-9pm
 
-**Location:** Sweetwater Organic Community Farm, Hanley Road, Tampa, FL, USA
-
+**Location:** 7318 Comanche Ave Tampa, FL 33634
 
 This convergence is dedicated to engaging community members across generations in conversation about environmental stewardship and community building.
 
@@ -69,8 +68,10 @@ Select your contribution, and let's create memorable experiences together! 🌻�
 
 ## Our Sponsors
 
+![Climate First Bank](/img/cfb.png)
 [Climate First Bank](https://www.climatefirstbank.com/)
 
+![Regenerative Shift](/img/rs.png)
 [Regenerative Shift](https://www.regenerativeshift.com/)
 
 ## Map
