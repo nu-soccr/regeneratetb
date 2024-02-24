@@ -2,6 +2,7 @@
 title: "Schedule"
 draft: false
 hideMeta: true
+tocOpen: true
 ---
 
 ## Morning 
