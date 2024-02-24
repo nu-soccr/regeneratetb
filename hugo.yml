@@ -82,7 +82,8 @@ params:
   socialIcons:
     - name: RSS
       url: "index.xml"
-
+    - name: Facebook
+      url: "https://www.facebook.com/events/7159603677486027"
 
   cover:
     hidden: false # hide everywhere but not in structured data
