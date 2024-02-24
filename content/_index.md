@@ -8,7 +8,8 @@ layout: home
 
 **Time:** 9am-9pm
 
-**Location:** 7318 Comanche Ave Tampa, FL 33634
+**Location:** Sweetwater Organic Community Farm
+[7318 Comanche Ave Tampa, FL 33634](https://maps.app.goo.gl/TBXwcZLCVL4BC6Jy7)
 
 This convergence is dedicated to engaging community members across generations in conversation about environmental stewardship and community building.
 
