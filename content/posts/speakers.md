@@ -89,6 +89,6 @@ Local entrepreneurs discuss navigating business with a focus on life.
     
 6. **Rick Scolaro** - Regeneration and Star Trek: A Vision for the Future
     
-7. *Slot Available*
+7. **Koreen Brennan** -  [We Regenerate](https://weregenerate.earth/): Solutions Hub for Florida
     
 8. *Slot Available*
