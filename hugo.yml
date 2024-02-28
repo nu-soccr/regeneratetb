@@ -16,11 +16,11 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Regenerate Tampa Bay
-  description: "Regenerate Tampa Bay "
+  description: "Join Regenerate Tampa Bay for a day of inspiring, life-centered experiences, workshops and panels."
   keywords: [Environmental Stewardship, All Ages, Permaculture, Workshops, Climate, Sustainability, Regeneration, Regenerative, Earth, Inflation Reduction Act, Renewable Energy, Organic, Soil, Tampa, Florida, Event, Family Friendly, Organic, Gardening]
   author: 
   # author: ["Me", "You"] # multiple authors
-  images: ["/img/logo.svg"]
+  images: ["/img/logo.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: light # dark, light, auto
   disableThemeToggle: false

@@ -79,16 +79,16 @@ Local entrepreneurs discuss navigating business with a focus on life.
 
 1. **Laura Oldanie** - Decentralized Intentional Communities
     
-2. **Lev Pasikhov** - Florida Fruit Coop
+2. **Dee Morales** - 813 Hood Garden
     
-3. **Dee Morales** - 813 Hood Garden
+3. **Koreen Brennan** -  [We Regenerate](https://weregenerate.earth/): Solutions Hub for Florida
     
-4. **Dahveed Montané** - Sociocracy
+4. **Kayla Caselli**, City of Tampa Sustainability Coordinator - City of Tampa's Sustainability Progress
     
-5. **Kayla Caselli**, City of Tampa Sustainability Coordinator - City of Tampa's Sustainability Progress
+5. **Dahveed Montané** - Sociocracy
     
 6. **Rick Scolaro** - Regeneration and Star Trek: A Vision for the Future
     
-7. **Koreen Brennan** -  [We Regenerate](https://weregenerate.earth/): Solutions Hub for Florida
+7. **Calli Marshall** - Eckerd College Farm
     
-8. *Slot Available*
+8. **Lev Pasikhov** - Florida Fruit Coop
