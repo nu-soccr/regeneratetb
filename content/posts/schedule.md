@@ -20,7 +20,7 @@ summary: "View the itinerary"
 | **Location** | **Time** | **Activity** |
 | ---- | ---- | ---- |
 | **Meet in front of Farmhouse** | 12:30 - 1:30pm | Learning from Nature Workshop with Liztere Fiol and Caleb Quaid |
-| **Zone 00** | 1:30 - 2:30pm | Thai Massage Workshop with Tim Witting |
+| **Zone 00** | 1:30 - 2:30pm | Sound Healing w/ Jennifer McClure |
 | **Farmhouse** | 12:30 - 1:15pm | Intro to Permaculture w/ Bill Bilodeau |
 | **School House** | 1:30 - 2:15pm | Heart Walk Celebration w/ Cindy Casterlin |
 | **Main Stage** | 1:30 - 2:30pm | Food System Panel |
@@ -33,7 +33,7 @@ summary: "View the itinerary"
 | **Location** | **Time** | **Activity** |
 | ---- | ---- | ---- |
 | **Main Stage** | 3:00 - 4:00pm | Land and Water Use Panel |
-| **Zone 00** | 3:00 - 4:00pm | Sound Healing w/ Jennifer McClure |
+| **Zone 00** | 3:00 - 4:00pm | *Open* |
 | **School House** | 3:30 - 4:15pm | Garden Grampa Lasagna Composting with Albert Risemberg |
 | **Main Stage** | 4:30 - 6:00pm | Elder Wisdom Panel |
 | **Zone 00** | 5:00 - 5:45pm | Zone 00 All Ages Embodiment with Tatiana Rodeiro |

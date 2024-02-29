@@ -79,7 +79,7 @@ Local entrepreneurs discuss navigating business with a focus on life.
 
 1. **Laura Oldanie** - Decentralized Intentional Communities
     
-2. **Dee Morales** - 813 Hood Garden
+2. **Fatima & Alex** - 813 Hood Garden
     
 3. **Koreen Brennan** -  [We Regenerate](https://weregenerate.earth/): Solutions Hub for Florida
     
