@@ -77,18 +77,18 @@ Local entrepreneurs discuss navigating business with a focus on life.
 
 ## Idea Hour (7 min talks)
 
-1. **Laura Oldanie** - Decentralized Intentional Communities
+1. **Calli Marshall** - [Eckerd College Farm](https://www.eckerd.edu/green/farm/)
     
-2. **Fatima & Alex** - 813 Hood Garden
+2. **Laura Oldanie** - Decentralized Intentional Communities
     
-3. **Koreen Brennan** -  [We Regenerate](https://weregenerate.earth/): Solutions Hub for Florida
+3. **Fatima & Alex** - [813 Hood Garden](https://www.facebook.com/813hoodgarden/) and [Tampa Heights Junior Civic Association](https://www.thjca.org/)
     
-4. **Kayla Caselli**, City of Tampa Sustainability Coordinator - City of Tampa's Sustainability Progress
+4. **Koreen Brennan** -  [We Regenerate](https://weregenerate.earth/): Solutions Hub for Florida
     
-5. **Dahveed Montané** - Sociocracy
+5. **Kayla Caselli**, City of Tampa Sustainability Coordinator - [City of Tampa's Sustainability](https://www.tampa.gov/green-tampa) Progress
     
-6. **Rick Scolaro** - Regeneration and Star Trek: A Vision for the Future
+6. **Dahveed Montané** - [Sociocracy](https://www.sociocracy.info/)
     
-7. **Calli Marshall** - Eckerd College Farm
+7. **Rick Scolaro** - Regeneration and Star Trek: A Vision for the Future
     
-8. **Lev Pasikhov** - Florida Fruit Coop
+8. **Lev Pasikhov** - [Florida Fruit Coop](https://floridafruit.co/)
