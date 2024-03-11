@@ -23,7 +23,7 @@ Regenerative solutions support life by creating the conditions for both nature a
 “Regenerative design uses whole systems thinking to create resilient and equitable systems that integrate the needs of society with maintaining healthy ecologies. Regenerative designers use systems thinking, applied permaculture design principles, and community development processes to design human and ecological systems.
 
 This approach can be applied to agriculture, architecture, community planning, cities, enterprises, economics and ecosystems."
-[](https://en.wikipedia.org/wiki/Regenerative_design)
+[https://en.wikipedia.org/wiki/Regenerative_design](https://en.wikipedia.org/wiki/Regenerative_design)
 
 A regenerative business might offer a product that heals nature and helps humans, and in addition might use renewable energy, reduce waste, use green suppliers, focus on its local community, take good care of its employees, and give back to the community. Regenerative practice and design goes beyond sustainability to heal and improve ecological systems and our own lives. This approach, achieved through a holistic approach that anybody can learn to do, is creating solutions that help both the earth and us, creating health and abundance.
 
@@ -43,6 +43,6 @@ Regenerative solutions can appear more challenging than “business as usual.”
 
 A major purpose of this website is to increase and accelerate access to those solutions in a number of different ways. Because climate change is a major concern for many of us, and because many of the best solutions to this are not broadly communicated or known, we are especially interested in supporting solutions that address this issue.
 
-More information: [](https://en.wikipedia.org/wiki/Regenerative_design)
+More information: [https://en.wikipedia.org/wiki/Regenerative_design](https://en.wikipedia.org/wiki/Regenerative_design)
 
-Courtesy of [](WeRegenerate.Earth)
+Courtesy of [WeRegenerate](WeRegenerate.Earth)
