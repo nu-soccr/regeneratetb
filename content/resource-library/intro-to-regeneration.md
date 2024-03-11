@@ -45,4 +45,4 @@ A major purpose of this website is to increase and accelerate access to those so
 
 More information: [https://en.wikipedia.org/wiki/Regenerative_design](https://en.wikipedia.org/wiki/Regenerative_design)
 
-Courtesy of [WeRegenerate](WeRegenerate.Earth)
+Courtesy of [WeRegenerate](https://WeRegenerate.Earth)
