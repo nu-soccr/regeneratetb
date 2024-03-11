@@ -11,35 +11,38 @@ _The Loess Plateau restoration in China is the largest scale regenerative land r
 
 
 
-## What is Regeneration?
+## What is regeneration?
 
 >"_Regeneration means putting life at the center of every action and decision. It's an inclusive and effective strategy to end the climate crisis in one generation._"
 >
 >Paul Hawken, Author of "Regeneration: Ending the climate crisis in one generation"
 
-Until recently, almost all talk on regeneration focused on regenerative agriculture and land restoration projects. As the benefits of regeneration continue to be proven in larger studies, regeneration is becoming a movement that rethinks traditional communities, industries, and businesses through a lens of connection with nature and restoring life through our actions.
 
-In contrast to traditional industrial agriculture, which uses fertilizers, pesticides, herbicides, and unsustainable irrigation to grow mostly monoculture crops, **regenerative agriculture** focuses first on soil health as the building block for a healthy food production system. Healthy soil grows healthy food, cleans water, provides habitat for wildlife, and pulls Co<sub>2</sub> out of the atmosphere and turns it into organic carbon in the soil and plants.
+Regenerative solutions support life by creating the conditions for both nature and humans to thrive. This is accomplished by restoring, renewing or revitalizing our own sources of materials and energy.
 
-**Regenerative land restoration** projects focus on capturing rainwater and storing it in the soil as the basis for restoring local ecosystems with world-changing potential! The Loess Plateau project, for example, restored 35,000 square kilometers (an area the size of the country of Belgium) from barren land to thriving farm and pasture in just a 12-year period using regenerative practices. Similar projects all over the world have shown that even in harshest environments (like Rwandan and Ethiopian deserts), regeneration can bring life back from the dead.
+“Regenerative design uses whole systems thinking to create resilient and equitable systems that integrate the needs of society with maintaining healthy ecologies. Regenerative designers use systems thinking, applied permaculture design principles, and community development processes to design human and ecological systems.
 
-**Regenerative buildings** rethink the built environment, focusing on incorporating nature into design through integrated environmental design and biomimicry (learning and mimicking nature's strategies to solve human design issues). Increasingly, communities and construction projects are looking at cutting-edge design solutions, like the Living Building Challenge, to create buildings that are a benefit to the surrounding environment.
+This approach can be applied to agriculture, architecture, community planning, cities, enterprises, economics and ecosystems."
+[](https://en.wikipedia.org/wiki/Regenerative_design)
 
-**Regenerative communities** are also emerging around the world. They aim to support all life and human lifestyle in a way that creates health, happiness, and connection. These communities focus on local resiliency, habitat preservation, sustainable energy use, and connection with nature.
+A regenerative business might offer a product that heals nature and helps humans, and in addition might use renewable energy, reduce waste, use green suppliers, focus on its local community, take good care of its employees, and give back to the community. Regenerative practice and design goes beyond sustainability to heal and improve ecological systems and our own lives. This approach, achieved through a holistic approach that anybody can learn to do, is creating solutions that help both the earth and us, creating health and abundance.
 
-Regeneration puts life at the center of decision-making, which leads to projects, systems and communities that are more resilient and adapted to changing political and environmental challenges. As the movement grows, regeneration can be expanded to regional, national, and global levels, to help realize the more beautiful world that our hearts know is possible.
+So how is regeneration different from sustainability?
 
-Want to discuss your regenerative shift? [Let's talk!](/services/)
+Sustainability means to make things last, to maintain things as they are. For most people, this implies continuing to conduct business as usual, but reducing or eliminating the damage done in the process. One problem with this approach is that it is often not feasible to continue doing things the way we have because some of the things our society is doing are destructive, or “degenerative,” at their core. For instance, there is likely no way to make fossil fuels sustainable. The extraction, processing and use of them all create multiple forms of damage that cannot be repaired at the pace it is created.
 
-## Why Regeneration?
+An example of practices considered sustainable would be solar panels. The mining, creation, delivery and discard of them all have degenerative elements, though using solar can prevent even worse damage from fossil fuels, and is thus more sustainable. It can even allow regeneration of damaged landscapes and health by reducing use of fossil fuels.
 
-### Draw Down Carbon!
+Degenerative practices result in the active destruction of resources, species, human health and well-being, etc, and can destroy the ability of these systems to recover without considerable aid. Examples include mountaintop removal for coal, clear cutting jungles that result in desertification, or using agricultural practices that destroy water quality, topsoil and fertility.
 
-We have a carbon problem. Well, really, we have a pollution problem. Carbon itself isn't bad... it is the building block of all life on earth. But, when we pollute carbon into the atmosphere heavily, it has consequences, including climate change. While stopping pollution and carbon emissions are critical, we also need solutions to drawdown the carbon that is already polluted.
+Regeneration actively improves systems, heals damage, and creates more potential and abundance than what is used up. This is done through processes that restore, renew or revitalize their own sources of energy and materials. Regenerative design uses whole systems thinking to create systems that provide for the needs of both humans and nature while healing both.
 
-Regenerative soil management can sequester massive amounts of carbon if scaled globally. According to at least one study, we could sequester 100% of our annual CO<sub>2</sub> emissions if all global cropland and pasture were regenerative. Oversimplified, plants breathe in CO<sub>2</sub>, breathe out oxygen, and keep the carbon. The world's soil holds triple the carbon that is in the atmosphere! By using regenerative practices to increase the carbon in the soil, we can drawdown the carbon in the atmosphere and mitigate climate change.
+Regenerative solutions are often very creative, innovative and outside of the box of “business as usual.” They usually offer multiple benefits across sectors. For instance, regenerative agriculture builds soil, increases infiltration of rainwater, promotes healthy vegetation and wildlife habitat, creates more nutrient-dense food, doesn’t release poisons into the water and soil, and captures carbon, among other benefits. It heals both nature and people.
 
-### Build and Sustain Life!
+Regenerative solutions can appear more challenging than “business as usual.” As we continue to degrade our environment, there will be a point where business as usual is obviously more challenging than regenerative solutions. When taking into consideration the full costs of degenerative practices, regenerative solutions are less expensive, more successful and easier to implement than degenerative ones, but few people are aware of the extent of this.
 
-When soil is healthy, it has more microorganisms in one handful than we have people on the planet. These small organisms are the foundation of the ecosystem and support all plant, insect, animal, and human life, along with making beautiful healthy soil. As we look for solutions to this great mass extinction, creating habitat through regenerative practices is one of the great opportunities before us!
+A major purpose of this website is to increase and accelerate access to those solutions in a number of different ways. Because climate change is a major concern for many of us, and because many of the best solutions to this are not broadly communicated or known, we are especially interested in supporting solutions that address this issue.
 
+More information: [](https://en.wikipedia.org/wiki/Regenerative_design)
+
+Courtesy of [](WeRegenerate.Earth)
